@@ -5,7 +5,7 @@ from urllib.request import urlopen
 #Page title config
 streamlit.set_page_config(
     page_title="Free Games🎮 - A streamlit webapp made using gamerpower API. ",
-    page_icon="Resources\My Computer.ico",
+    page_icon="",
     layout="centered",
     menu_items={
         'Get Help': 'https://github.com/Mikepool117',
