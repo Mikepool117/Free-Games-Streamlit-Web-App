@@ -41,4 +41,6 @@ Start the server to run the app
 ```bash
   streamlit run main.py
 ```
+## Screenshots
 
+![App Screenshot](https://i.imgur.com/LVFgS7b.png)
