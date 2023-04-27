@@ -17,7 +17,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Free-Games-Streamlit-Web-App
 ```
 
 ### Project Requirements
